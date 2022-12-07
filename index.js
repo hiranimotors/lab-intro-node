@@ -15,3 +15,5 @@ class SortedList {
 }
 
 module.exports = SortedList;
+
+console.log(5);
